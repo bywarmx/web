@@ -1479,7 +1479,7 @@ function validRfc(){
 
 
     if (lsRfc==''){
-        alert('Debe ingresar un R.F.C. ');
+        alert('Pelotudo Debes ingresar un R.F.C. ');
         return(false);
     }else  if (lsRfc.length/1>=12 ){
         if (lsRfc.length/1==13){
